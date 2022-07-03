@@ -1,2 +1,2 @@
 # simply-yt-dowlander
-Simply dowlander audio from YouTube
+Aplikacja pobierająca pliki audio z YouTube
