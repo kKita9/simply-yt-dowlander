@@ -1,2 +1,1 @@
-# simply-yt-dowlander
-Aplikacja pobierająca pliki audio z YouTube
+# Aplikacja pobierająca pliki audio z YouTube
